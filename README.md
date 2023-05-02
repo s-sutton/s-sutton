@@ -21,6 +21,8 @@ Bandit (TBD)
 HackTheBox CTFs (TBD)
 <h2>Programming Projects</h2>
 
+Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure) and [Log Analysis](https://github.com/s-sutton/first_shell_script)
+
 [C++ Coding Principles](https://github.com/s-sutton/2020_PROJECTS)
 
 Python Coding Principles
