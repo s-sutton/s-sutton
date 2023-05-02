@@ -1,8 +1,5 @@
-<h1>Seann "Shae" Sutton (she/her)</h1>
+<h1>Seann "Shae" Sutton</h1>
 I’m interested in pentesting, digital privacy, free software, and decentralized computer networks. I’m currently learning C, Python, and SQL. I’m looking to collaborate on decentralized, privacy-focused software and platforms. Professionally, I am seeking a long-term career in offensive computer security.
-
- 
-
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB)
@@ -22,9 +19,6 @@ PicoCTF (TBD)
 Bandit (TBD)
 
 HackTheBox CTFs (TBD)
-
- 
-
 <h2>Programming Projects</h2>
 
 [C++ Coding Principles](https://github.com/s-sutton/2020_PROJECTS)
