@@ -4,9 +4,9 @@ I’m interested in pentesting, digital privacy, free software, and decentralize
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB)
 
-Security+ (in progress)
+Security+ (awaiting exam date)
 
-eLearnSecurity Junior Penetration Tester (TBD)
+eLearnSecurity Junior Penetration Tester (in progress)
 
 HackTheBox Certified Penetration Testing Specialist (TBD)
 
