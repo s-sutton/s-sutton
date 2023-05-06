@@ -4,7 +4,7 @@ I’m interested in pentesting, digital privacy, free software, and decentralize
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB)
 
-Security+ (awaiting exam date)
+Security+ (awaiting exam)
 
 eLearnSecurity Junior Penetration Tester (in progress)
 
