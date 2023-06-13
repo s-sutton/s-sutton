@@ -1,5 +1,5 @@
 <h1>Seann "Searlait" Sutton</h1>
-I’m interested in pentesting, digital privacy, free software, and decentralized computer networks. I’m currently learning C++ and Python. I’m looking to collaborate on decentralized, privacy-focused software and platforms. Professionally, I am seeking a long-term career in offensive computer security.
+I’m interested in informatics and digital privacy. I’m currently working on my certificates, all other projects are on hold. I’m looking to collaborate on privacy-focused decentralized networks. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB)
