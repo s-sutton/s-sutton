@@ -1,4 +1,4 @@
-<h1>Seann "Shae" Sutton</h1>
+<h1>Seann "Searlait" Sutton</h1>
 I’m interested in pentesting, digital privacy, free software, and decentralized computer networks. I’m currently learning C++ and Python. I’m looking to collaborate on decentralized, privacy-focused software and platforms. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
