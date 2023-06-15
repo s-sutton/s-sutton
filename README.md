@@ -1,4 +1,4 @@
-<h1>Seann "Searlait" Sutton</h1>
+<h1>S. G. Sutton</h1>
 I’m interested in vulnerability research and exploit development. I’m currently working on my certificates, all other projects are on hold. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
