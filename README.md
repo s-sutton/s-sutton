@@ -12,6 +12,10 @@ HackTheBox Certified Penetration Testing Specialist (TBD)
 
 Offensive Security Certified Professional (TBD)
 
+eLearnSecurity Certified Professional Penetration Tester (TBD)
+
+Practical Network Penetration Tester (TBD)
+
 <h2>CTF Writeups</h2>
 
 PicoCTF (TBD)
@@ -34,3 +38,5 @@ NAND to Tetris (TBD)
 Linux From Scratch (TBD)
 
 C Compiler in Assembly (TBD)
+
+SEC760: Advanced Exploit Development for Penetration Testers (TBD)
