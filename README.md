@@ -12,11 +12,11 @@ eLearnSecurity Certified Professional Penetration Tester (TBD)
 
 Offensive Security Certified Professional (TBD)
 
-Practical Network Penetration Tester (TBD)
+Certified Ethical Hacker (TBD)
 
 HackTheBox Certified Penetration Testing Specialist (TBD)
 
-Certified Ethical Hacker (TBD)
+Practical Network Penetration Tester (TBD)
 <h2>CTF Writeups</h2>
 
 PicoCTF (TBD)
