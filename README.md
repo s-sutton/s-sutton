@@ -8,14 +8,15 @@ Security+ (awaiting exam)
 
 eLearnSecurity Junior Penetration Tester (in progress)
 
-HackTheBox Certified Penetration Testing Specialist (TBD)
+eLearnSecurity Certified Professional Penetration Tester (TBD)
 
 Offensive Security Certified Professional (TBD)
 
-eLearnSecurity Certified Professional Penetration Tester (TBD)
-
 Practical Network Penetration Tester (TBD)
 
+HackTheBox Certified Penetration Testing Specialist (TBD)
+
+Certified Ethical Hacker (TBD)
 <h2>CTF Writeups</h2>
 
 PicoCTF (TBD)
