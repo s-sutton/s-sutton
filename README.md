@@ -38,6 +38,8 @@ NAND to Tetris ([TBD](https://www.nand2tetris.org/))
 
 C Compiler in Assembly (TBD)
 
+Scaffold compiler in OpenQASM (TBD)
+
 Linux From Scratch ([TBD](https://www.linuxfromscratch.org/lfs/read.html))
 
 Kernel Exploitation for Newbies ([TBD](https://hackmag.com/coding/linux-kernel-exploitation/))
