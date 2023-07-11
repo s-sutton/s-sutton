@@ -32,13 +32,15 @@ Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure)
 
 KhanAcademy Programming ([TBD](https://www.khanacademy.org/computing/computer-programming))
 
-Python, C, Rust, and Assembly Coding Principles (TBD)
+Python, C, Rust, and Assembly Coding Principles ([TBD](https://github.com/s-sutton/coding-principles))
 
 NAND to Tetris ([TBD](https://www.nand2tetris.org/))
 
 C Compiler in Assembly (TBD)
 
 Linux From Scratch ([TBD](https://www.linuxfromscratch.org/lfs/read.html))
+
+Kernel Exploitation for Newbies ([TBD](https://hackmag.com/coding/linux-kernel-exploitation/))
 
 SEC760: Advanced Exploit Development for Penetration Testers ([TBD](https://www.sans.org/cyber-security-courses/advanced-exploit-development-penetration-testers/))
 
