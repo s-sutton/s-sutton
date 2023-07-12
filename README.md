@@ -38,8 +38,6 @@ NAND to Tetris ([TBD](https://www.nand2tetris.org/))
 
 C Compiler in Assembly (TBD)
 
-Scaffold Compiler in OpenQASM (TBD)
-
 Linux From Scratch ([TBD](https://www.linuxfromscratch.org/lfs/read.html))
 
 Kernel Exploitation for Newbies ([TBD](https://hackmag.com/coding/linux-kernel-exploitation/))
@@ -47,3 +45,7 @@ Kernel Exploitation for Newbies ([TBD](https://hackmag.com/coding/linux-kernel-e
 SEC760: Advanced Exploit Development for Penetration Testers ([TBD](https://www.sans.org/cyber-security-courses/advanced-exploit-development-penetration-testers/))
 
 Modern Binary Exploitation - CSCI 4968 ([TBD](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/))
+
+Scaffold Compiler in OpenQASM (TBD)
+
+ARM Assembly ([TBD](https://azeria-labs.com/writing-arm-assembly-part-1/))
