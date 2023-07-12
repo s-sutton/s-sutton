@@ -30,13 +30,13 @@ Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure)
 
 [C++ Coding Principles](https://github.com/s-sutton/2020_PROJECTS)
 
-KhanAcademy Programming ([TBD](https://www.khanacademy.org/computing/computer-programming))
-
-Python, C, Rust, and Assembly Coding Principles ([TBD](https://github.com/s-sutton/coding-principles))
+JavaScript, HTML/CSS, and SQL Coding Principles ([TBD](https://www.khanacademy.org/computing/computer-programming))
 
 NAND to Tetris ([TBD](https://www.nand2tetris.org/))
 
-C Compiler in Assembly (TBD)
+C Compiler in x86 Assembly (TBD)
+
+Python, C, Rust, and Assembly Coding Principles ([TBD](https://github.com/s-sutton/coding-principles))
 
 Linux From Scratch ([TBD](https://www.linuxfromscratch.org/lfs/read.html))
 
