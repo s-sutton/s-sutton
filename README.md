@@ -30,7 +30,7 @@ Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure)
 
 [C++ Coding Principles](https://github.com/s-sutton/2020_PROJECTS)
 
-JavaScript, HTML/CSS, and SQL Coding Principles ([TBD](https://www.khanacademy.org/computing/computer-programming))
+JavaScript, HTML, CSS, and SQL Coding Principles ([TBD](https://www.khanacademy.org/computing/computer-programming))
 
 NAND to Tetris ([TBD](https://www.nand2tetris.org/))
 
