@@ -1,5 +1,5 @@
 <h1>S. G. Sutton</h1>
-I’m interested in vulnerability research and exploit development. I'm particulary interested in remote kernel exploitation. I’m currently working on my certificates, all other projects are on hold. Professionally, I am seeking a long-term career in offensive computer security.
+I’m interested in kernel vulnerability research and exploit development. I’m currently working on my certificates, all other projects are on hold. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB) ([course](https://www.coursera.org/learn/technical-support-fundamentals))
@@ -15,8 +15,6 @@ Offensive Security Certified Professional ([TBD](https://www.offsec.com/courses/
 Certified Ethical Hacker ([TBD](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/))
 
 HackTheBox Certified Penetration Testing Specialist ([TBD](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/certification-steps))
-
-Practical Network Penetration Tester ([TBD](https://certifications.tcm-sec.com/pnpt/))
 <h2>CTF Writeups</h2>
 
 PicoCTF ([TBD](https://picoctf.org/))
