@@ -6,9 +6,9 @@ I’m interested in vulnerability research and exploit development, particularly
 
 Security+ ([awaiting exam](https://www.comptia.org/certifications/security))
 
-eLearnSecurity Junior Penetration Tester ([in progress](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert))
+[eLearnSecurity Junior Penetration Tester](https://certs.ine.com/3f7da421-6aa8-4def-a840-96057bbbaba4) ([course](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert))
 
-eLearnSecurity Certified Professional Penetration Tester ([TBD](https://ine.com/learning/certifications/internal/elearnsecurity-certified-professional-penetration-tester))
+eLearnSecurity Certified Professional Penetration Tester ([in progress](https://ine.com/learning/certifications/internal/elearnsecurity-certified-professional-penetration-tester))
 
 Offensive Security Certified Professional ([TBD](https://www.offsec.com/courses/pen-200/))
 
