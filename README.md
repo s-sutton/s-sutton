@@ -1,5 +1,5 @@
 <h1>S. G. Sutton</h1>
-I’m interested in vulnerability research and exploit development, particularly regarding systems programming. I’m currently working on my certificates, all other projects are on hold. Professionally, I am seeking a long-term career in offensive computer security.
+I’m interested in vulnerability research and exploit development, particularly regarding systems programming and computer architecture. I’m currently working on my certificates, all other projects are on hold. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB) ([course](https://www.coursera.org/learn/technical-support-fundamentals))
