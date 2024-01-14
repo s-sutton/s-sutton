@@ -36,7 +36,7 @@ C Compiler in x86 Assembly (TBD)
 
 C, Rust, Zig  and Assembly Coding Principles ([TBD](https://github.com/s-sutton/coding-principles))
 
-Write Your Own Operating System (([In Progress, TBD](https://youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&feature=shared)
+Write Your Own Operating System (([in progress](https://youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&feature=shared)
 
 Linux From Scratch ([TBD](https://www.linuxfromscratch.org/lfs/read.html))
 
