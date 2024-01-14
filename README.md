@@ -30,18 +30,16 @@ HackTheBox CTFs ([TBD](https://app.hackthebox.com/home))
 
 Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure) and [Log Analysis](https://github.com/s-sutton/first_shell_script)
 
+[Calculator in x86 Assembly](https://github.com/s-sutton/coding-principles)
+
 Kernel Exploitation for Newbies ([TBD](https://hackmag.com/coding/linux-kernel-exploitation/))
 
 SEC760: Advanced Exploit Development for Penetration Testers ([TBD](https://www.sans.org/cyber-security-courses/advanced-exploit-development-penetration-testers/))
 
 Modern Binary Exploitation - CSCI 4968 ([TBD](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/))
 
-[C, Rust, Zig  and x86 Assembly Coding Principles](https://github.com/s-sutton/coding-principles)
-
 C Compiler in x86 Assembly (TBD)
 
 Scaffold Compiler in OpenQASM (TBD)
 
 ARM Assembly ([TBD](https://azeria-labs.com/writing-arm-assembly-part-1/))
-
-JavaScript, HTML, CSS, and SQL Coding Principles ([TBD](https://www.khanacademy.org/computing/computer-programming))
