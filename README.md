@@ -34,7 +34,7 @@ NAND to Tetris ([TBD](https://www.nand2tetris.org/))
 
 C Compiler in x86 Assembly (TBD)
 
-C, Rust, Zig  and Assembly Coding Principles ([TBD](https://github.com/s-sutton/coding-principles))
+[C, Rust, Zig  and Assembly Coding Principles](https://github.com/s-sutton/coding-principles)
 
 Write Your Own Operating System ([in progress](https://youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&feature=shared))
 
