@@ -22,23 +22,13 @@ PicoCTF ([TBD](https://picoctf.org/))
 Bandit ([TBD](https://overthewire.org/wargames/bandit/))
 
 HackTheBox CTFs ([TBD](https://app.hackthebox.com/home))
-<h2>Programming Projects</h2>
+<h2>Projects</h2>
 
-Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure) and [Log Analysis](https://github.com/s-sutton/first_shell_script)
+[Hobby Operating System](https://github.com/s-sutton/sgs_os/tree/main)
 
 [C++ Coding Principles](https://github.com/s-sutton/2020_PROJECTS)
 
-JavaScript, HTML, CSS, and SQL Coding Principles ([TBD](https://www.khanacademy.org/computing/computer-programming))
-
-NAND to Tetris ([TBD](https://www.nand2tetris.org/))
-
-C Compiler in x86 Assembly (TBD)
-
-[C, Rust, Zig  and Assembly Coding Principles](https://github.com/s-sutton/coding-principles)
-
-Write Your Own Operating System ([in progress](https://youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&feature=shared))
-
-Linux From Scratch ([TBD](https://www.linuxfromscratch.org/lfs/read.html))
+Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure) and [Log Analysis](https://github.com/s-sutton/first_shell_script)
 
 Kernel Exploitation for Newbies ([TBD](https://hackmag.com/coding/linux-kernel-exploitation/))
 
@@ -46,6 +36,12 @@ SEC760: Advanced Exploit Development for Penetration Testers ([TBD](https://www.
 
 Modern Binary Exploitation - CSCI 4968 ([TBD](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/))
 
+[C, Rust, Zig  and x86 Assembly Coding Principles](https://github.com/s-sutton/coding-principles)
+
+C Compiler in x86 Assembly (TBD)
+
 Scaffold Compiler in OpenQASM (TBD)
 
 ARM Assembly ([TBD](https://azeria-labs.com/writing-arm-assembly-part-1/))
+
+JavaScript, HTML, CSS, and SQL Coding Principles ([TBD](https://www.khanacademy.org/computing/computer-programming))
