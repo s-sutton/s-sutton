@@ -22,6 +22,8 @@ PicoCTF ([TBD](https://picoctf.org/))
 Bandit ([TBD](https://overthewire.org/wargames/bandit/))
 
 HackTheBox CTFs ([TBD](https://app.hackthebox.com/home))
+
+CTFtime CTFs ([TBD](https://ctftime.org/ctfs)
 <h2>Projects</h2>
 
 [Hobby Operating System](https://github.com/s-sutton/sgs_os/tree/main)
