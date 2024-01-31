@@ -1,5 +1,5 @@
 <h1>S. G. Sutton</h1>
-I’m interested in vulnerability research and exploit development, especially [memory exploitation](https://github.com/s-sutton/sgs_os/tree/main) I’m currently working on my certificates, all other projects are on hold. Professionally, I am seeking a long-term career in offensive computer security.
+I’m interested in vulnerability research and exploit development, especially memory exploitation. I’m currently working on my certificates, all other projects are on hold. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB) ([course](https://www.coursera.org/learn/technical-support-fundamentals))
@@ -25,6 +25,7 @@ HackTheBox CTFs ([TBD](https://app.hackthebox.com/home))
 
 CTFtime CTFs ([TBD](https://ctftime.org/ctfs)
 <h2>Projects</h2>
+[Hobby Operating System](https://github.com/s-sutton/sgs_os/tree/main)
 
 [Hobby Operating System](https://github.com/s-sutton/sgs_os/tree/main)
 
