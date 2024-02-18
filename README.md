@@ -12,9 +12,9 @@ eLearnSecurity Certified Professional Penetration Tester ([in progress](https://
 
 Offensive Security Certified Professional ([TBD](https://www.offsec.com/courses/pen-200/))
 
-Certified Ethical Hacker ([TBD](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/))
-
 HackTheBox Certified Penetration Testing Specialist ([TBD](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/certification-steps))
+
+Offensive Security Certified Expert ([TBD](https://www.offsec.com/certificates/osce3/))
 <h2>CTF Writeups</h2>
 
 PicoCTF ([TBD](https://picoctf.org/))
