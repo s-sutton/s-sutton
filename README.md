@@ -34,11 +34,13 @@ Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure)
 
 [Calculator in x86 Assembly](https://github.com/s-sutton/coding-principles)
 
+DEP Bypass with ROP Exploit ([TBD](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/))
+
+Modern Binary Exploitation - CSCI 4968 ([TBD](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/))
+
 Kernel Exploitation for Newbies ([TBD](https://hackmag.com/coding/linux-kernel-exploitation/))
 
 SEC760: Advanced Exploit Development for Penetration Testers ([TBD](https://www.sans.org/cyber-security-courses/advanced-exploit-development-penetration-testers/))
-
-Modern Binary Exploitation - CSCI 4968 ([TBD](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/))
 
 C Compiler in x86 Assembly (TBD)
 
