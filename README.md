@@ -1,5 +1,5 @@
 <h1>S. G. Sutton</h1>
-I’m interested in vulnerability research and exploit development, especially network and memory exploitation. Professionally, I am seeking a long-term career in offensive computer security.
+I’m interested in vulnerability research, exploit development, and red teaming. I hope to one day be a CTF champion. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB) ([course](https://www.coursera.org/learn/technical-support-fundamentals))
@@ -24,8 +24,6 @@ PicoCTF ([TBD](https://picoctf.org/))
 
 Bandit ([TBD](https://overthewire.org/wargames/bandit/))
 
-HackTheBox CTFs ([TBD](https://app.hackthebox.com/home))
-
 CTFtime CTFs ([TBD](https://ctftime.org/ctfs))
 <h2>Projects</h2>
 
@@ -33,7 +31,7 @@ CTFtime CTFs ([TBD](https://ctftime.org/ctfs))
 
 Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure) and [Log Analysis](https://github.com/s-sutton/first_shell_script)
 
-LeetCode in C [(in progress)](https://github.com/s-sutton/coding-principles/tree/main/C/1337code)
+LeetCode in C ([in progress](https://github.com/s-sutton/coding-principles/tree/main/C/1337code))
 
 Hobby Operating System ([in progress](https://github.com/s-sutton/sgs_os/tree/main))
 
