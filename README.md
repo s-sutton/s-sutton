@@ -4,8 +4,6 @@ I’m interested in vulnerability research, exploit development, and red teaming
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB) ([course](https://www.coursera.org/learn/technical-support-fundamentals))
 
-Security+ ([awaiting exam](https://www.comptia.org/certifications/security))
-
 [eLearnSecurity Junior Penetration Tester](https://certs.ine.com/3f7da421-6aa8-4def-a840-96057bbbaba4) ([course](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert))
 
 Certified Ethical Hacker ([about to start](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v13-north-america/))
