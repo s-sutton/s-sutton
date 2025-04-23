@@ -29,7 +29,7 @@ CTFtime CTFs ([TBD](https://ctftime.org/ctfs))
 
 Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure) and [Log Analysis](https://github.com/s-sutton/first_shell_script)
 
-LeetCode in C ([in progress](https://github.com/s-sutton/coding-principles/tree/main/C/1337code))
+LeetCode in [C](https://github.com/s-sutton/LeetCode_C), [Python](https://github.com/s-sutton/LeetCode_Python), and [Rust](https://github.com/s-sutton/LeetCode_Rust)
 
 Hobby Operating System ([in progress](https://github.com/s-sutton/sgs_os/tree/main))
 
@@ -43,7 +43,7 @@ SEC760: Advanced Exploit Development for Penetration Testers ([TBD](https://www.
 
 ARM Assembly ([TBD](https://azeria-labs.com/writing-arm-assembly-part-1/))
 
-Calculator in x86 Assembly ([TBD](https://github.com/s-sutton/coding-principles))
+Calculator in x86 Assembly (TBD)
 
 C Compiler in x86 Assembly (TBD)
 
