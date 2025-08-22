@@ -31,6 +31,14 @@ Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure)
 
 LeetCode in [C](https://github.com/s-sutton/LeetCode_C), [Python](https://github.com/s-sutton/LeetCode_Python), and [Rust](https://github.com/s-sutton/LeetCode_Rust)
 
+pwn.college (no writeups allowed) ([TBD](https://pwn.college/))
+
+Exploitation 4011 ([TBD](https://ost2.fyi/))
+
+Exploitation Education ([TBD](https://exploit.education/))
+
+[Getting Started](https://dayzerosec.com/blog/2021/02/02/getting-started.html) and [To The Real World](https://dayzerosec.com/tags/ctf-to-real-world/) by DayZeroSec
+
 Hobby Operating System ([in progress](https://github.com/s-sutton/sgs_os/tree/main))
 
 DEP Bypass with ROP Exploit ([TBD](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/))
