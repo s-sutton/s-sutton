@@ -1,5 +1,5 @@
 <h1>S. G. Sutton</h1>
-I’m interested in vulnerability research, exploit development, and red teaming. Professionally, I am seeking a long-term career in offensive computer security.
+I’m interested in exploit development and red teaming. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB) ([course](https://www.coursera.org/learn/technical-support-fundamentals))
