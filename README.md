@@ -31,7 +31,7 @@ Shell Scripts: [Text Adventure](https://github.com/s-sutton/Bash-Text-Adventure)
 
 LeetCode in [C](https://github.com/s-sutton/LeetCode_C), [Python](https://github.com/s-sutton/LeetCode_Python), and [Rust](https://github.com/s-sutton/LeetCode_Rust)
 
-[pwn.college (no writeups allowed)](https://pwn.college/hacker/s-sutton))
+[pwn.college (no writeups allowed)](https://pwn.college/hacker/s-sutton)
 
 Exploitation 4011 ([TBD](https://ost2.fyi/))
 
