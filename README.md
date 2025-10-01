@@ -1,5 +1,5 @@
 <h1>S. G. Sutton</h1>
-I’m interested in exploit development and red teaming. Professionally, I am seeking a long-term career in offensive computer security.
+I’m interested in vulnerability research, exploit development and red teaming. Professionally, I am seeking a long-term career in offensive computer security.
 <h2>Certificates</h2>
 
 [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/JPGQ3YYJJAWB) ([course](https://www.coursera.org/learn/technical-support-fundamentals))
@@ -37,7 +37,9 @@ Exploitation 4011 ([TBD](https://ost2.fyi/))
 
 Exploitation Education ([TBD](https://exploit.education/))
 
-[Getting Started](https://dayzerosec.com/blog/2021/02/02/getting-started.html) and [To The Real World](https://dayzerosec.com/tags/ctf-to-real-world/) by DayZeroSec
+ROP Emporium ([TBD](https://ropemporium.com/index.html?ref=dayzerosec.com))
+
+Special thanks to [Getting Started](https://dayzerosec.com/blog/2021/02/02/getting-started.html) and [To The Real World](https://dayzerosec.com/tags/ctf-to-real-world/) by DayZeroSec
 
 Hobby Operating System ([in progress](https://github.com/s-sutton/sgs_os/tree/main))
 
